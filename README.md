@@ -1,1 +1,1 @@
-Add Weights & Biases Docs integrations page (#7199)
+Add C++ Classify inference example (#6868)
