@@ -1,1 +1,1 @@
-Update Docs robots.txt (#7728)
+YOLOv8 INT8 TFLite Inference Example (#7317)
