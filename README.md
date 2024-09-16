@@ -1,1 +1,1 @@
-Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
+ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
